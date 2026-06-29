@@ -133,4 +133,4 @@ Tu peux créer autant de présets que tu veux, chacun avec ses propres paramètr
 
 ---
 
-*Fait avec ❤️ — By V0idSoul*
+*Made — By V0idSoul*
