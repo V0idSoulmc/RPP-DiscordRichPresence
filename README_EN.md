@@ -135,4 +135,4 @@ You can create as many presets as you want, each with its own settings.
 
 ---
 
-*Made with ❤️ — By V0idSoul*
+*Made — By V0idSoul*
