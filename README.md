@@ -181,4 +181,4 @@ python build.py        # génère dist/DiscordPresenceManager.exe
 
 ---
 
-*Fait avec ❤️ — By V0idSoul*
+*By V0idSoul*
