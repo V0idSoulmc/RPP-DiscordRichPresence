@@ -4,7 +4,7 @@ Personnalise ton statut Discord — avec présets, images et boutons cliquables.
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue) ![Discord](https://img.shields.io/badge/Discord-Rich%20Presence-5865F2) ![Version](https://img.shields.io/badge/Version-3.0-success)
 
-**[🌐 Site officiel](https://v0idsoulmc.github.io/RPP-DiscordRichPresence/)** · **[⬇️ Télécharger l'installateur](https://drive.google.com/file/d/1apcJbiWLuHwDpFUpIIkmmSneFTf54632/view?usp=sharing)** · **[📖 Tuto d'installation complet](https://docs.google.com/document/d/1tw57rOSOib3DkRrNvrqXgRnJskTHA8YQLVUrQdDK5_U/edit?usp=sharing)**
+**[🌐 Site officiel](https://rpp-download.pages.dev/)** · **[⬇️ Télécharger l'installateur](https://drive.google.com/file/d/1apcJbiWLuHwDpFUpIIkmmSneFTf54632/view?usp=sharing)** · **[📖 Tuto d'installation complet](https://docs.google.com/document/d/1tw57rOSOib3DkRrNvrqXgRnJskTHA8YQLVUrQdDK5_U/edit?usp=sharing)**
 
 ---
 
